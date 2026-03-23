@@ -39,31 +39,6 @@ Where:
 
 ---
 
-## 📁 Project Structure
-
-Linear-Regression-Student-Scores/
-│
-├── data/
-│   └── student_scores.csv
-│
-├── results/
-│   ├── loss_curve.png
-│   ├── predictions_vs_actual.png
-│   └── *_vs_target.png
-│
-├── src/
-│   ├── preprocess.py
-│   ├── model.py
-│   ├── train.py
-│   ├── predict.py
-│   └── visualize.py
-│
-├── model.pkl
-├── requirements.txt
-└── README.md
-
-
-
 ##  How to Run
 
 Step 1: Install dependencies  
